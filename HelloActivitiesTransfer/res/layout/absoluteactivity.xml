@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="162dp"
+        android:layout_y="42dp"
+        android:text="Next Activity" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="124dp"
+        android:layout_height="wrap_content"
+        android:layout_x="18dp"
+        android:layout_y="37dp"
+        android:text="This is the 2nd activity, using AbsoulteLayout" />
+
+    <Button
+        android:id="@+id/btnGetExtra"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="26dp"
+        android:layout_y="135dp"
+        android:text="Get String Extra:" />
+
+    <TextView
+        android:id="@+id/tvIntentExtra"
+        android:layout_width="94dp"
+        android:layout_height="51dp"
+        android:layout_x="163dp"
+        android:layout_y="134dp"
+        android:text="TextView" />
+
+</AbsoluteLayout>

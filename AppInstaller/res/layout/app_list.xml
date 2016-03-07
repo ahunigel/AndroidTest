@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="-1"
+	android:layout_height="-1"
+	>
+	<ListView
+		android:scrollbarStyle="0x02000000"
+		android:id="@android:0102000A"
+		android:layout_width="-1"
+		android:layout_height="-1"
+		>
+	</ListView>
+	<TextView
+		android:textAppearance="?android:01010040"
+		android:gravity="0x00000011"
+		android:id="@android:01020004"
+		android:layout_width="-1"
+		android:layout_height="-1"
+		android:text="@7F04000E"
+		>
+	</TextView>
+</FrameLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="type">收入类型</string>
+    <string name="app_name">TaxCalc</string>
+    <string name="before">收入金额</string>
+    <string name="after">税后所得</string>
+    <string name="tax">需要纳税</string>
+    <string name="point">起征点：</string>
+    <string name="insurance">五险一金</string>
+
+</resources>

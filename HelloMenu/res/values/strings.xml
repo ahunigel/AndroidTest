@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, HelloMenuActivity!  Press Menu key to continue!!!</string>
+    <string name="press">How smart you are!</string>
+    <string name="app_name">HelloMenu</string>
+    <string name="about">I am a test engineer, and I wanna to be a Android engineer!</string>
+
+</resources>

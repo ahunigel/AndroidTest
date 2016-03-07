@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <EditText
+        android:id="@+id/phonenum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="21dp"
+        android:layout_x="2dp"
+        android:layout_y="43dp"
+        android:ems="10"
+        android:inputType="phone"
+        android:text="18992728439" />
+
+    <EditText
+        android:id="@+id/smscontent"
+        android:layout_width="match_parent"
+        android:layout_height="198dp"
+        android:layout_marginTop="27dp"
+        android:layout_x="1dp"
+        android:layout_y="104dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:text="i love you, Me Gustas !" />
+
+    <EditText
+        android:id="@+id/myname"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_x="20dp"
+        android:layout_y="314dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:text="nigel" >
+
+        <requestFocus />
+    </EditText>
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="22dp"
+        android:layout_x="214dp"
+        android:layout_y="381dp"
+        android:text="Exit" />
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="46dp"
+        android:layout_x="10dp"
+        android:layout_y="2dp"
+        android:text="This is a test for send sms!" />
+
+    <Button
+        android:id="@+id/send"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="258dp"
+        android:layout_y="317dp"
+        android:text="Send" />
+
+    <Button
+        android:id="@+id/btnclear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="19dp"
+        android:layout_x="128dp"
+        android:layout_y="381dp"
+        android:text="Clear" />
+
+    <Button
+        android:id="@+id/btnNew"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="39dp"
+        android:layout_y="380dp"
+        android:text="New" />
+
+</AbsoluteLayout>

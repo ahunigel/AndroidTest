@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, ActivityLifecycleActivity!</string>
+    <string name="app_name">ActivityLifecycle</string>
+    <string name="second">Hello World, This is the Second Activity!</string>
+    <string name="dialog">This is a dialog activity !</string>
+
+</resources>
